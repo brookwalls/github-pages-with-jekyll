@@ -1,1 +1,4 @@
-Here is what we will learn today: It all about syntax!
+---
+title: "C Programming"
+date: 2020-07-14
+---
